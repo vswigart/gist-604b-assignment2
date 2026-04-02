@@ -1,2 +1,3 @@
 # gist-604b-assignment2
 GIST 604B Assignment 2: QGIS Desktop GIS Projects
+This repository has Basic GIS operations QGIS tutorials. The exercises highlight how spatial data is created, managed, analyzed, and visualized within a modern open-source GIS environment. Collectively, these tutorials provide a structured foundational framework for understanding core geospatial concepts and methodological approaches used in contemporary spatial analysis. GIS skills practiced are coordinate reference system selection and transformation, cartographic design and synbology, attribute data editing, table management, and relational joins.
