@@ -6,6 +6,7 @@ QGIS 3.44 Long Term Release
 QGIS 3.44 LTR is not tied to a single operating system — it is officially released for Windows, macOS, and Linux.
 
 Tutorials
+
 1.[Making a Map] (https://www.qgistutorials.com/en/docs/3/making_a_map.html)
 2.[Working with Projections] (https://www.qgistutorials.com/en/docs/3/working_with_projections.html)
 3.[Working with Attributes] (https://www.qgistutorials.com/en/docs/3/working_with_attributes.html)
