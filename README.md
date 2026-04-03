@@ -19,3 +19,13 @@ Tutorials
 8.[Performing Spatial Joins](https://www.qgistutorials.com/en/docs/3/performing_spatial_joins.html)
 9.[Performing Spatial Queries](https://www.qgistutorials.com/en/docs/3/performing_spatial_queries.html)
 10.[Digitizing Map Data](https://www.qgistutorials.com/en/docs/3/digitizing_basics.html)
+
+Skills Demonstated
+1.Applying best cartographic practices
+2.Identify, select, assign appropriate CRS to layers
+3.Filter, select, query attribute data using expressions
+4.Spatial joins to transfer attributes based on spatial relationships
+5.Managing data sources, file paths, and project metadata
+
+Reflection
+Since the QGIS software has updated since the tutorials were written, some portions of the instructions are outdated and forces you to have to really know each step of the process. Working with different coordinate reference systems presented challenges while trying to run different processes. That portion revealed just how important it is to assign the appropriate CRS to layers. The spatial joins and spatial queries concepts became clearer after having to restart the projects a few times. Ultimately, the trial and error of these tutorials strengthened my GIS troubleshooting abilites, preparing me for future coursework and professional GIS workflows. 
