@@ -20,7 +20,7 @@ Tutorials
 9.[Performing Spatial Queries](https://www.qgistutorials.com/en/docs/3/performing_spatial_queries.html)
 10.[Digitizing Map Data](https://www.qgistutorials.com/en/docs/3/digitizing_basics.html)
 
-Skills Demonstated
+Skills Demonstrated
 
 1.Applying best cartographic practices
 2.Identify, select, assign appropriate CRS to layers
